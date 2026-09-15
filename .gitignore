@@ -1,0 +1,3 @@
+# TPM installs every @plugin from .tmux.conf here; only tpm itself is vendored
+plugins/*
+!plugins/tpm
